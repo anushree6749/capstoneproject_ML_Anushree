@@ -41,13 +41,17 @@ optimum weight of the product to be shipped each time from the respective wareho
 
 ## My approach involves:
 
-# Exploratory Data Analysis (EDA): Gain insights into data distribution, identify trends, and assess relationships between features.
+#Exploratory Data Analysis (EDA): 
+Gain insights into data distribution, identify trends, and assess relationships between features.
 
-# Data Preprocessing: Clean and preprocess data to address missing values and ensure readiness for modeling.
+#Data Preprocessing:
+Clean and preprocess data to address missing values and ensure readiness for modeling.
 
-# Model Development: Apply various machine learning algorithms (e.g., Linear Regression, Random Forest) to predict optimal product weights for each warehouse.
+#Model Development:
+Apply various machine learning algorithms (e.g., Linear Regression, Random Forest) to predict optimal product weights for each warehouse.
 
-# Model Evaluation: Assess model effectiveness using appropriate metrics on a test dataset.
+#Model Evaluation:
+Assess model effectiveness using appropriate metrics on a test dataset.
 
 # Visualization: Create visualizations to communicate insights, feature importance, and model performance.
 
