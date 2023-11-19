@@ -1,3 +1,4 @@
+![image](https://github.com/anushree6749/capstoneproject_ML_Anushree/assets/138094071/830102fc-d8d0-423f-80b0-e8984ae6fb55)
 
 This project involves building a model, using historical data, to determine the optimum weight of the product to be shipped from each respective warehouse of an FMCG company that entered the instant noodles business two years ago.
 ### Supply Chain Management:
