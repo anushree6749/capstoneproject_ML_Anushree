@@ -53,9 +53,11 @@ Apply various machine learning algorithms (e.g., Linear Regression, Random Fores
 #Model Evaluation:
 Assess model effectiveness using appropriate metrics on a test dataset.
 
-# Visualization: Create visualizations to communicate insights, feature importance, and model performance.
+# Visualization:
+Create visualizations to communicate insights, feature importance, and model performance.
 
-Conclusion and Recommendations: Draw conclusions, highlight key findings, and provide actionable recommendations to optimize supply chain operations.
+##Conclusion and Recommendations: 
+Draw conclusions, highlight key findings, and provide actionable recommendations to optimize supply chain operations.
 
 This project aims to reduce inventory costs, minimize losses, and enhance overall supply chain efficiency for the FMCG company through data science and machine learning, facilitating informed decision-making.
 
